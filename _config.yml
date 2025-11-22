@@ -26,11 +26,11 @@ author:
   avatar           : "Tasleem_picture.jpg"
   name             : "Mohd Tasleem Khan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor in Embedded AI/ML"
+  location         : "Edinburgh, United Kingdom"
+  employer         : "Heriot-Watt University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "M.T.Khan@hw.ac.uk" 
 
   # Academic websites
   academia         : # URL
