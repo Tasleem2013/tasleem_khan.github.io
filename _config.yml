@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Tasleem_picture.jpg"
+  avatar           : "/images/Tasleem_picture.png"
   name             : "Mohd Tasleem Khan"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Embedded AI/ML"
